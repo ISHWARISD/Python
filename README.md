@@ -1,0 +1,1 @@
+Think you can make our Text-to-Speech sound like Morgan Freeman or our Sudoku Solver solve puzzles at warp speed? We welcome all contributions, whether it's adding new features, improving performance, or just making things more entertaining. Just remember to keep it fun and quirky!
